@@ -1,6 +1,5 @@
 # Angular from Theory to Practice
 
-This is the official repository for the Angular course on https://angular.codecraft.tv
 
 - Each folder is a chapter in the book, ordered by prefix number.
 - Each chapter has a subfolder for each lecture, again ordered by prefix number.
